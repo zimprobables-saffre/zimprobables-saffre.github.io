@@ -35,7 +35,7 @@ a.icon-link:hover {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #ff8b13;
+  background-color: #E75A0D;
 }
 
 .nav-title-link {
@@ -51,7 +51,7 @@ a.icon-link:hover {
 @media only screen and (max-width: 800px) {
   .navbar {
     padding: 20px 20px;
-    background-color: #ff8b13;
+    background-color: #E75A0D;
   }
 }
 
