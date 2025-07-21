@@ -96,7 +96,7 @@ a.no-underline {
 a.no-underlinez {
   text-decoration: none;
   color: white;
-  background-color: rgb(255, 139, 19);
+  background-color: #ff8b13;
 }
 
 a.no-underline:hover {
@@ -108,7 +108,7 @@ a.no-underlinez:hover {
   text-decoration: underline;
   cursor: pointer;
   color: white;
-  background-color: rgb(255, 139, 19);
+  background-color: #ff8b13;
 }
 
 /* Small devices (portrait tablets and large phones, 800px and below) */
